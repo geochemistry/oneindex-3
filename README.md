@@ -1,6 +1,11 @@
 # OneIndex
 Onedrive Directory Index
 
+
+## 说明：
+原作者已因为一些原因删库，这是之前的一个folk
+部署到heroku等平台，会出现循环配置的结果，需要将正常搭建的config文件夹下两个php文件移动到该项目中，再从heroku配置即可
+
 ## 功能：
 不占用服务器空间，不走服务器流量，  
 
